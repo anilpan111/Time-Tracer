@@ -1,5 +1,7 @@
 @import "../../global.scss";
 
+
+
 .Navbar{
     width: 100%;
     height: 70px;
@@ -39,6 +41,7 @@
                 span{
                     font-size: 15px;
                     font-weight: 600;
+                    cursor: pointer;
                 }
             }
         }
